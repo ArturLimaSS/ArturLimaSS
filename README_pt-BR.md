@@ -57,10 +57,9 @@ Essa Ação será executada todos os dias às 00.00 IST
 
 Adicione um comentário igual a esse em seu `README.md`:
 
-```md
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-```
+
 
 Estas linhas serão nosso ponto de entrada para as métricas de desenvolvimento.
 
